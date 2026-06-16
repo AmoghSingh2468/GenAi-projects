@@ -14,7 +14,7 @@ An AI-powered machine translation system that translates English text into Frenc
 - Accurate and fast translation
 - Simple Jupyter Notebook implementation
 
-### 🛠️ Technologies Used
+### Technologies Used
 - Python
 - Hugging Face Transformers
 - MarianMT Model
@@ -73,17 +73,6 @@ Install the required libraries:
 ```bash
 pip install transformers torch sentencepiece
 ```
-
----
-
-# How to Run
-
-1. Clone the repository.
-2. Open the desired project folder.
-3. Launch the Jupyter Notebook (`.ipynb` file).
-4. Run all cells to execute the project.
-
----
 
 # Applications
 
